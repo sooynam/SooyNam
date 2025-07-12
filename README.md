@@ -53,7 +53,7 @@
 
 ### 🐍 Snake Contribution Animation
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sooynam/sooynam/output/snake.svg" alt="Snake animation" />
+  <img src="https://github.com/sooynam/SooyNam/blob/main/snake.yml" alt="Snake animation" />
 </p>
 
 ---
