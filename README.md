@@ -53,7 +53,7 @@
 
 ### 🐍 Snake Contribution Animation
 <p align="center">
-  <img src="https://github.com/sooynam/SooyNam/blob/main/snake.yml" alt="Snake animation" />
+  <img src="https://github.com/sooynam/SooyNam/blob/main/pacman.yml" alt="Snake animation" />
 </p>
 
 ---
