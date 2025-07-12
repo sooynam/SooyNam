@@ -1,18 +1,37 @@
-![logo](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />)
+<!-- 🖼️ टॉप पर GIF Banner (अगर मुख्य URL काम न करे तो बैकअप GIF लोड हो) -->
+<!-- 📌 मुख्य URL: animesher.com | बैकअप URL: tenor.com -->
+<p align="center">
+  <img 
+    src="https://animesher.com/orig/0/19/197/1978/animesher.com_code-computer-html-197855.gif" 
+    alt="Top Banner" 
+    width="100%"
+    onerror="this.onerror=null; this.src='https://media.tenor.com/0y0eBdWuHkwAAAAC/coding-programming.gif';"
+  />
+</p>
+
+<!-- 🙋 परिचय -->
 <h2 align="left">Hi 👋! I'm SooyNam, a curious and eager tech explorer from India 🚀</h2>
 
-###
+<!-- 📊 GitHub Stats + GIF (साथ-साथ table में) -->
+<table>
+  <tr>
+    <td>
+      <!-- ⚙️ Sooynam's GitHub Stats -->
+      <img src="https://github-readme-stats.vercel.app/api?username=sooynam&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" />
+    </td>
+    <td>
+      <!-- 🧠 Coding Nerd GIF (अगर न चले तो fallback image लोड हो) -->
+      <img 
+        src="https://media1.tenor.com/m/Bpv9wTLKMskAAAAC/computer-nerds.gif" 
+        height="150" 
+        alt="Computer Nerd GIF"
+        onerror="this.onerror=null; this.src='https://media.tenor.com/p0G_bmA2f0MAAAAd/tech-coding.gif';"
+      />
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sooynam&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-</div>
-
-###
-
-<img align="right" height="150" src="https://media1.tenor.com/m/Bpv9wTLKMskAAAAC/computer-nerds.gif" />
-
-###
-
+<!-- 🛠️ Programming Languages & Tools -->
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
   <img width="12" />
@@ -37,8 +56,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
 </div>
 
-###
-
+<!-- 📬 Social Badges -->
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
@@ -46,14 +64,13 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
 </div>
 
-###
-
-<br clear="both">
-
+<!-- 🐍 Snake animation -->
+<br clear="both" />
 <img src="https://raw.githubusercontent.com/sooynam/sooynam/output/snake.svg" alt="Snake animation" />
 
 ---
 
+<!-- 📂 Project Summary -->
 ### 🛠 Projects & Info:
 
 - 🔭 I’m currently working on [AI Agent](https://github.com/sooynam/Jarvis-Ai.git)  
